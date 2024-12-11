@@ -16,7 +16,7 @@ Social links profile card feaaturing hover and focus states for all interactive 
 
 ### Screenshot
 
-![](./images/desktop-view.png.jpg)
+![](./images/desktop-view.png)
 ![](./images/mobile-view.png)
 
 ### Links
